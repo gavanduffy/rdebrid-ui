@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Modern Interface**: A clean and modern interface for Real-Debrid.
+- **Modern Interface**: A clean and modern interface for Real Debrid.
 - SPA (Single Page Application): The app is a single page application, which means it's fast and responsive.
 - **Bulk Delete**: Easily delete multiple items at once.
 - **Torrent Availability Checking**: Check the availability of magnet before adding torrent.
